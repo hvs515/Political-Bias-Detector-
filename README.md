@@ -1,6 +1,6 @@
 # Political Bias Detector
-
-A comprehensive classical machine learning system to classify news articles into 5 political bias categories: **Far-Left**, **Left**, **Center**, **Right**, and **Far-Right**.
+In a world where Bias is probably the most important meteric when making any decision ,Political Bias shapes how you think about the future of your country .
+This project is a  comprehensive classical machine learning system to classify news articles into 5 political bias categories: **Far-Left**, **Left**, **Center**, **Right**, and **Far-Right**.
 
 ## Project Overview
 
